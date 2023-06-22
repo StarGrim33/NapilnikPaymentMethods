@@ -1,0 +1,15 @@
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\bin\Debug\net6.0\Payment.exe
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\bin\Debug\net6.0\Payment.deps.json
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\bin\Debug\net6.0\Payment.runtimeconfig.json
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\bin\Debug\net6.0\Payment.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\bin\Debug\net6.0\Payment.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\refint\Payment.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\Payment.genruntimeconfig.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\NapilnikPaymentMethods\Payment\obj\Debug\net6.0\ref\Payment.dll
